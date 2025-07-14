@@ -2,7 +2,7 @@
 
 int main(){
 	char operator;
-	double num1,num,result;
+	double num1,num2,result;
 
 	printf("Enter first number : ");
 	scanf("%1f",&num1);
